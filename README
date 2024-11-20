@@ -1,0 +1,1 @@
+This code calculates the static approximation for the frequency-dependent mobility of molecular organic semiconductors within the tight-binding model on a 2D triangular lattice. To compile, use "make tl". Requires LAPACK/LAPACKE, for example, as implemented in OpenBLAS. 
